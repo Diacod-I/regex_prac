@@ -1,2 +1,3 @@
-# regex_prac
-A practice repo for regex functions
+# Regex Prectice
+A practice repo for regex expressions..<br>
+😇😇😇
